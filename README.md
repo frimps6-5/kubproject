@@ -1,4 +1,3 @@
-<include a CircleCI status badge, here>
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/frimps6-5/kubproject/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/frimps6-5/kubproject/tree/main)
 
@@ -50,4 +49,3 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
-# kubproject
